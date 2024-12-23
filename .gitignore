@@ -1,0 +1,5 @@
+build/
+.vscode/
+.gitconfig
+CMakeUserPresets.json
+songs/
